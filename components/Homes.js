@@ -15,7 +15,7 @@ function Homes (){
         <div className="fullPage">
             <h2>{time}</h2>
             <button  className="twitter">
-                <i className='fa fa-twitter'></i>
+                <i className='fa fa-twitter'>!</i>
             </button>
     
         </div>
